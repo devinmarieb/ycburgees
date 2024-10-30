@@ -1,0 +1,11 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "Yacht Clubs"
+subtitle: |
+  A collection of clubs and their burgees.
+content : |
+    The site's collection is a work in progress - moving from east coast to west coast - creating a comprehensive list of yachting and boating clubs across the US.
+button:
+  label : "See Clubs"
+  link : "#first"
+image : "images/landing.png"
