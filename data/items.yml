@@ -429,62 +429,78 @@ items:
 #   founded: 1923
 #   website: https://www.nehfleet.org/
 #   burgee: northeast_harbor_yc.png
+# - club:
+#   name: Portsmouth Yacht Club
+#   city: New Castle
+#   state: New Hampshire
+#   country: USA
+#   founded: 1898
+#   website: https://portsmouthyc.org/
+#   burgee: portsmouth_yc.png
+# - club:
+#   name: Kittery Point Yacht Club
+#   city: New Castle
+#   state: New Hampshire
+#   country: USA
+#   founded: 1946
+#   website: https://www.kpyc.org/
+#   burgee: kittery_point_yc.png
+# - club:
+#   name: Winnipesaukee Yacht Club
+#   city: Gilford
+#   state: New Hampshire
+#   country: USA
+#   founded: 1937
+#   website: https://wyc-nh.org/
+#   burgee: winnipesaukee_yc.png
+# - club:
+#   name: Winter Harbor Yacht Club
+#   city: Gilford
+#   state: New Hampshire
+#   country: USA
+#   founded: 1940
+#   website: https://winterharboryachtclubnh.com/
+#   burgee: winter_harbor_nh_yc.png
+# - club:
+#   name: Massabesic Yacht Club
+#   city: Auburn
+#   state: New Hampshire
+#   country: USA
+#   founded: 1938
+#   website: https://mycsailing.com/
+#   burgee: massabesic_yc.png
+# - club:
+#   name: Lake Sunapee Yacht Club
+#   city: Sunapee
+#   state: New Hampshire
+#   country: USA
+#   founded: 1984
+#   website: https://lsyc.net/
+#   burgee: sunapee_yc.png
+# - club:
+#   name: Barton & Gray Mariners Club
+#   city: Portsmouth
+#   state: New Hampshire
+#   country: USA
+#   founded: 2006
+#   website: https://www.bartonandgray.com/
+#   burgee: barton_gray_yc.png
 - club:
-  name: Portsmouth Yacht Club
-  city: New Castle
-  state: New Hampshire
+  name: Lake Champlain Yacht Club
+  city: Shelbourne
+  state: Vermont
   country: USA
-  founded: 1898
-  website: https://portsmouthyc.org/
-  burgee: portsmouth_yc.png
+  founded: 1877
+  website: https://lcyc.info/
+  burgee: lake_champlain_yc.png
 - club:
-  name: Kittery Point Yacht Club
-  city: New Castle
-  state: New Hampshire
+  name: Mallets Bay Boat Club
+  city: Colchester
+  state: Vermont
   country: USA
-  founded: 1946
-  website: https://www.kpyc.org/
-  burgee: kittery_point_yc.png
-- club:
-  name: Winnipesaukee Yacht Club
-  city: Gilford
-  state: New Hampshire
-  country: USA
-  founded: 1937
-  website: https://wyc-nh.org/
-  burgee: winnipesaukee_yc.png
-- club:
-  name: Winter Harbor Yacht Club
-  city: Gilford
-  state: New Hampshire
-  country: USA
-  founded: 1940
-  website: https://winterharboryachtclubnh.com/
-  burgee: winter_harbor_nh_yc.png
-- club:
-  name: Massabesic Yacht Club
-  city: Auburn
-  state: New Hampshire
-  country: USA
-  founded: 1938
-  website: https://mycsailing.com/
-  burgee: massabesic_yc.png
-- club:
-  name: Lake Sunapee Yacht Club
-  city: Sunapee
-  state: New Hampshire
-  country: USA
-  founded: 1984
-  website: https://lsyc.net/
-  burgee: sunapee_yc.png
-- club:
-  name: Barton & Gray Mariners Club
-  city: Portsmouth
-  state: New Hampshire
-  country: USA
-  founded: 2006
-  website: https://www.bartonandgray.com/
-  burgee: barton_gray_yc.png
+  founded: 1936
+  website: https://mbbc-vt.org/
+  burgee: malletts_bay_yc.png
 # club:
 #   name:
 #   city:
