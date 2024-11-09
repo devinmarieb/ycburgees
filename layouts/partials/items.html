@@ -4,7 +4,7 @@
         {{ with .title }}<h2>{{ . }}</h2>{{ end }}
         {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
         <div class="items {{ .style }}">
-            {{ range sort .items }}
+            {{ range sort .items "founded" }}
                 {{ partial "item" . }}
             {{ end }}
         </div>
