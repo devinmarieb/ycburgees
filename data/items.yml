@@ -532,7 +532,7 @@ items:
   country: USA
   founded: 1908
   website: https://wadawanuckclub.com/
-  burgee: Wadawanuck_yc.png
+  burgee: wadawanuck_yc.png
 - club:
   name: Branford Yacht Club
   city: Branford
@@ -1596,7 +1596,7 @@ items:
   country: USA
   founded: 1906
   website: https://www.nantucketyachtclub.org/
-  burgee: Nantucket_yc.png
+  burgee: nantucket_yc.png
 - club:
   name: Springfield Yacht and Canoe Club
   city: Agawam
