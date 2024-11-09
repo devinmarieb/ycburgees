@@ -1,930 +1,930 @@
 title : "Clubs"
 content: |
-  The list is currently organized by founding date. In the future, you will be able to sort alphabetically, or by state. 
+  The list is currently organized by founding date. In the future, you'll be able to sort by state, or alphabetically. 
   <br>
-  I've made the data open source. Feel free to contribute to, or use the <a href="/" target="_blank">data</a>.
+  All the data used to make this list is <a href="https://github.com/devinmarieb/yachtclublist" target="_blank">hosted online</a> for anyone to use or contribute to.
 style: "style1 medium onscroll-fade-in"
 items:
-# - club:
-#   name: Edgewood Yacht Club
-#   city: Cranston
-#   state: Rhode Island
-#   country: USA
-#   founded: 1889
-#   website: https://edgewoodyachtclub.com/
-#   burgee: edgewood_yc.png
-# - club:
-#   name: Rhode Island Yacht Club
-#   city: Cranston
-#   state: Rhode Island
-#   country: USA
-#   founded: 1875
-#   website: https://www.riyachtclub.org/
-#   burgee: rhode_island_yc.png
-# - club:
-#   name: East Providence Yacht Club
-#   city: East Providence
-#   state: Rhode Island
-#   country: USA
-#   founded: 1938
-#   website: https://www.facebook.com/p/East-Providence-Yacht-Club-100063546101950/
-#   burgee: east_providence_yc.png
-# - club:
-#   name: Narragansett Bay Yachting Association
-#   city: East Providence
-#   state: Rhode Island
-#   country: USA
-#   founded: 1938
-#   website: https://nbya.org/
-#   burgee: narragansett_bay_yc.png
-# - club:
-#   name: Barrington Yacht Club
-#   city: Barrington
-#   state: Rhode Island
-#   country: USA
-#   founded: 1908
-#   website: https://barringtonyc.com/
-#   burgee: east_greenwich_yc.png
-# - club:
-#   name: East Greenwich Yacht Club
-#   city: East Greenwich
-#   state: Rhode Island
-#   country: USA
-#   founded: 1909
-#   website: https://www.egyc.com/
-#   burgee: barrington_yc.png
-# - club:
-#   name: Bristol Yacht Club
-#   city: Bristol
-#   state: Rhode Island
-#   country: USA
-#   founded: 1877
-#   website: https://www.bristolyc.com/
-#   burgee: bristol_yc.png
-# - club:
-#   name: Narragansett Terrace Yacht Club
-#   city: Riverside
-#   state: Rhode Island
-#   country: USA
-#   founded: 1946
-#   website: https://www.ntyc.org/
-#   burgee: narragansett_terrace_yc.png
-# - club:
-#   name: Narragansett Boat Club
-#   city: Providence
-#   state: Rhode Island
-#   country: USA
-#   founded: 1838
-#   website: https://rownbc.org/
-#   burgee: narragansett_boat_yc.png
-# - club:
-#   name: Newport Yacht Club
-#   city: Newport
-#   state: Rhode Island
-#   country: USA
-#   founded: 1894
-#   website: https://www.newportyachtclub.org/
-#   burgee: newport_yc.png
-# - club:
-#   name: New York Yacht Club Harbor Court
-#   city: Newport
-#   state: Rhode Island
-#   country: USA
-#   founded: 1844
-#   website: https://nyyc.org/
-#   burgee: new_york_yc.png
-# - club:
-#   name: Ida Lewis Yacht Club
-#   city: Newport
-#   state: Rhode Island
-#   country: USA
-#   founded: 1928
-#   website: https://www.ilyc.org/
-#   burgee: ida_lewis_yc.png
-# - club:
-#   name: Conanicut Yacht Club
-#   city: Jamestown
-#   state: Rhode Island
-#   country: USA
-#   founded: 1892
-#   website: https://conanicutyachtclub.org/
-#   burgee: conanicut_yc.png
-# - club:
-#   name: Clam Harbor Yacht Club
-#   city: Warwick
-#   state: Rhode Island
-#   country: USA
-#   founded: 1952
-#   website: https://www.clamharboryachtclub.com/
-#   burgee: clam_harbor_yc.png
-# - club:
-#   name: Tiverton Yacht Club
-#   city: Tiverton
-#   state: Rhode Island
-#   country: USA
-#   founded: 1945
-#   website: https://www.tivertonyachtclub.org/
-#   burgee: tiverton_yc.png
-# - club:
-#   name: Quonset Davisville Navy Yacht Club
-#   city: North Kingstown
-#   state: Rhode Island
-#   country: USA
-#   founded: 1966
-#   website: https://www.qdnyc.com/
-#   burgee: quonset_yc.png
-# - club:
-#   name: Wickford Yacht Club
-#   city: North Kingstown
-#   state: Rhode Island
-#   country: USA
-#   founded: 1935
-#   website: https://www.wickfordyc.com/
-#   burgee: wickford_yc.png
-# - club:
-#   name: Weekapaug Yacht Club
-#   city: Westerly
-#   state: Rhode Island
-#   country: USA
-#   founded: 1893
-#   website: https://weekapaugyachtclub.com/
-#   burgee: weekapaug_yc.png
-# - club:
-#   name: Watch Hill Yacht Club
-#   city: Westerly
-#   state: Rhode Island
-#   country: USA
-#   founded: 1913
-#   website: https://www.whyc.net/
-#   burgee: watch_hill_yc.png
-# - club:
-#   name: Westerly Yacht Club
-#   city: Westerly
-#   state: Rhode Island
-#   country: USA
-#   founded: 1928
-#   website: https://www.westerlyyc.org/
-#   burgee: westerly_yc.png
-# - club:
-#   name: Saunderstown Yacht Club
-#   city: Saunderstown
-#   state: Rhode Island
-#   country: USA
-#   founded: 1927
-#   website: https://saunderstownyachtclub.org/
-#   burgee: saunderstown_yc.png
-# - club:
-#   name: Sakonnet Yacht Club
-#   city: Little Compton
-#   state: Rhode Island
-#   country: USA
-#   founded: 1939
-#   website: https://syc.clubexpress.com/
-#   burgee: sakonnet_yc.png
-# - club:
-#   name: Point Judith Yacht Club
-#   city: South Kingstown
-#   state: Rhode Island
-#   country: USA
-#   founded: 1926
-#   website: https://www.pjyc.org/
-#   burgee: point_judith_yc.png
-# - club:
-#   name: Portland Yacht Club
-#   city: Falmouth
-#   state: Maine
-#   country: USA
-#   founded: 1869
-#   website: https://www.portlandyachtclub.com/
-#   burgee: portland_me_yc.png
-# - club:
-#   name: Camden Yacht Club
-#   city: Camden
-#   state: Maine
-#   country: USA
-#   founded: 1902
-#   website: https://camdenyachtclub.org/
-#   burgee: camden_yc.png
-# - club:
-#   name: Agamenticus Yacht Club
-#   city: York Harbor
-#   state: Maine
-#   country: USA
-#   founded: 1937
-#   website: https://www.aycsail.org/
-#   burgee: agamenticus_yc.png
-# - club:
-#   name: Southport Yacht Club
-#   city: Southport
-#   state: Maine
-#   country: USA
-#   founded: 1946
-#   website: https://www.southportyachtclub.org/
-#   burgee: southport_yc.png
-# - club:
-#   name: Biddeford Pool Yacht Club
-#   city: Biddeford
-#   state: Maine
-#   country: USA
-#   founded: 1934
-#   website: https://www.biddefordpoolyachtclub.org/
-#   burgee: biddeford_pool_yc.png
-# - club:
-#   name: Harraseeket Yacht Club
-#   city: South Freeport
-#   state: Maine
-#   country: USA
-#   founded: 1948
-#   website: https://hyc.cc/
-#   burgee: harraseeket_yc.png
-# - club:
-#   name: Rockland Yacht Club
-#   city: Rockland
-#   state: Maine
-#   country: USA
-#   founded: 1928
-#   website: https://www.facebook.com/rycmaine/
-#   burgee: rockland_yc.png
-# - club:
-#   name: Wiscasset Yacht Club
-#   city: Wiscasset
-#   state: Maine
-#   country: USA
-#   founded: 1952
-#   website: https://wiscassetyc.com/
-#   burgee: wiscasset_yc.png
-# - club:
-#   name: Centerboard Yacht Club
-#   city: South Portland
-#   state: Maine
-#   country: USA
-#   founded: 1937
-#   website: https://www.centerboardyachtclub.org/
-#   burgee: centerboard_yc.png
-# - club:
-#   name: Saco Yacht Club
-#   city: Saco
-#   state: Maine
-#   country: USA
-#   founded: 1879
-#   website: https://www.sacoyachtclub.com/
-#   burgee: saco_yc.png
-# - club:
-#   name: Androscoggin Yacht Club
-#   city: Wayne
-#   state: Maine
-#   country: USA
-#   founded: 1909
-#   website: http://aycwayne.org/
-#   burgee: androscoggin_yc.png
-# - club:
-#   name: Boothbay Harbor Yacht Club
-#   city: Boothbay Harbor
-#   state: Maine
-#   country: USA
-#   founded: 1895
-#   website: https://www.bhyc.net/
-#   burgee: boothbay_harbor_yc.png
-# - club:
-#   name: Northport Yacht Club
-#   city: Northport
-#   state: Maine
-#   country: USA
-#   founded: 1939
-#   website: https://www.northportyachtclub.org/
-#   burgee: northport_yc.png
-# - club:
-#   name: Seal Harbor Yacht Club
-#   city: Mount Desert Island
-#   state: Maine
-#   country: USA
-#   founded: 1923
-#   website: https://shyc.me/
-#   burgee: seal_harbor_yc.png
-# - club:
-#   name: Kollegewidgwok Yacht Club
-#   city: Blue Hill
-#   state: Maine
-#   country: USA
-#   founded: 1922
-#   website: https://www.kycbluehill.com/
-#   burgee: kollegewidgwok_yc.png
-# - club:
-#   name: Great Cove Boat Club
-#   city: Eliot
-#   state: Maine
-#   country: USA
-#   founded: 1988
-#   website: https://greatcove.org/
-#   burgee: great_cove_yc.png
-# - club:
-#   name: Castine Yacht Club
-#   city: Castine
-#   state: Maine
-#   country: USA
-#   founded: 1952
-#   website: https://www.castinegolfclub.com/yacht-club/
-#   burgee: castine_yc.png
-# - club:
-#   name: Arundel Yacht Club
-#   city: Kennebunkport
-#   state: Maine
-#   country: USA
-#   founded: 1957
-#   website: https://www.arundelyachtclub.org/
-#   burgee: arundel_yc.png
-# - club:
-#   name: Orr’s-Bailey Yacht Club
-#   city: Orr's Island
-#   state: Maine
-#   country: USA
-#   founded: 1954
-#   website: https://obyc.org/
-#   burgee: orrs_bailey_yc.png
-# - club:
-#   name: Bucks Harbor Yacht Club
-#   city: Brooksville
-#   state: Maine
-#   country: USA
-#   founded: 1905
-#   website: https://bucksharboryc.org/
-#   burgee: bucks_harbor_yc.png
-# - club:
-#   name: Center Harbor Yacht Club
-#   city: Brooklin
-#   state: Maine
-#   country: USA
-#   founded: 1912
-#   website: https://www.chycinfo.com/
-#   burgee: center_harbor_yc.png
-# - club:
-#   name: Rockport Boat Club
-#   city: Rockport
-#   state: Maine
-#   country: USA
-#   founded: 1948
-#   website: https://rockportboatclub.org/
-#   burgee: rockport_yc.png
-# - club:
-#   name: Winter Harbor Yacht Club
-#   city: Winter Harbor
-#   state: Maine
-#   country: USA
-#   founded: 1890
-#   website: https://www.winterharboryachtclub.com/
-#   burgee: winter_harbor_me_yc.png
-# - club:
-#   name: Stockton Harbor Yacht Club
-#   city: Stockton Springs
-#   state: Maine
-#   country: USA
-#   founded: 2016
-#   website: https://www.facebook.com/stocktonharboryachtclub/
-#   burgee: stockton_harbor_yc.png
-# - club:
-#   name: Taylor Pond Yacht Club
-#   city: Auburn
-#   state: Maine
-#   country: USA
-#   founded: 1942
-#   website: https://taylorpondyachtclub.com/
-#   burgee: taylor_pond_yc.png
-# - club:
-#   name: Tarratine Club of Dark Harbor
-#   city: Islesboro
-#   state: Maine
-#   country: USA
-#   founded: 1896
-#   website: https://tarratineclub.org/
-#   burgee: tarratine_yc.png
-# - club:
-#   name: Down East Yacht Club
-#   city: Boothbay Harbor
-#   state: Maine
-#   country: USA
-#   founded: 1966
-#   website: https://www.downeastyachtclub.com/
-#   burgee: down_east_yc.png
-# - club:
-#   name: Swans Island Yacht Club
-#   city: Swans Island
-#   state: Maine
-#   country: USA
-#   founded: 2017
-#   website: https://www.facebook.com/profile.php?id=100064343215781
-#   burgee: swans_island_yc.png
-# - club:
-#   name: MDI Community Sailing Center
-#   city: Southwest Harbor
-#   state: Maine
-#   country: USA
-#   founded: 1996
-#   website: https://mdisailing.org/
-#   burgee: mdi_community_yc.png
-# - club:
-#   name: Northeast Harbor Fleet
-#   city: Northeast Harbor
-#   state: Maine
-#   country: USA
-#   founded: 1923
-#   website: https://www.nehfleet.org/
-#   burgee: northeast_harbor_yc.png
-# - club:
-#   name: Portsmouth Yacht Club
-#   city: New Castle
-#   state: New Hampshire
-#   country: USA
-#   founded: 1898
-#   website: https://portsmouthyc.org/
-#   burgee: portsmouth_yc.png
-# - club:
-#   name: Kittery Point Yacht Club
-#   city: New Castle
-#   state: New Hampshire
-#   country: USA
-#   founded: 1946
-#   website: https://www.kpyc.org/
-#   burgee: kittery_point_yc.png
-# - club:
-#   name: Winnipesaukee Yacht Club
-#   city: Gilford
-#   state: New Hampshire
-#   country: USA
-#   founded: 1937
-#   website: https://wyc-nh.org/
-#   burgee: winnipesaukee_yc.png
-# - club:
-#   name: Winter Harbor Yacht Club
-#   city: Gilford
-#   state: New Hampshire
-#   country: USA
-#   founded: 1940
-#   website: https://winterharboryachtclubnh.com/
-#   burgee: winter_harbor_nh_yc.png
-# - club:
-#   name: Massabesic Yacht Club
-#   city: Auburn
-#   state: New Hampshire
-#   country: USA
-#   founded: 1938
-#   website: https://mycsailing.com/
-#   burgee: massabesic_yc.png
-# - club:
-#   name: Lake Sunapee Yacht Club
-#   city: Sunapee
-#   state: New Hampshire
-#   country: USA
-#   founded: 1984
-#   website: https://lsyc.net/
-#   burgee: sunapee_yc.png
-# - club:
-#   name: Barton & Gray Mariners Club
-#   city: Portsmouth
-#   state: New Hampshire
-#   country: USA
-#   founded: 2006
-#   website: https://www.bartonandgray.com/
-#   burgee: barton_gray_yc.png
-# - club:
-#   name: Lake Champlain Yacht Club
-#   city: Shelbourne
-#   state: Vermont
-#   country: USA
-#   founded: 1877
-#   website: https://lcyc.info/
-#   burgee: lake_champlain_yc.png
-# - club:
-#   name: Mallets Bay Boat Club
-#   city: Colchester
-#   state: Vermont
-#   country: USA
-#   founded: 1936
-#   website: https://mbbc-vt.org/
-#   burgee: malletts_bay_yc.png
-# - club:
-#   name: Essex Yacht Club
-#   city: Essex
-#   state: Connecticut
-#   country: USA
-#   founded: 1933
-#   website: https://www.essexyc.com/
-#   burgee: essex_yc.png
-# - club:
-#   name: Thames Yacht Club
-#   city: New London
-#   state: Connecticut
-#   country: USA
-#   founded: 1932
-#   website: https://thamesyc.org/
-#   burgee: thames_yc.png
-# - club:
-#   name: Stonington Harbor Yacht Club
-#   city: Stonington
-#   state: Connecticut
-#   country: USA
-#   founded: 2002
-#   website: https://shyc.us/
-#   burgee: stonington_yc.png
-# - club:
-#   name: Wadawanuck Club
-#   city: Stonington
-#   state: Connecticut
-#   country: USA
-#   founded: 1908
-#   website: https://wadawanuckclub.com/
-#   burgee: Wadawanuck_yc.png
-# - club:
-#   name: Branford Yacht Club
-#   city: Branford
-#   state: Connecticut
-#   country: USA
-#   founded: 1909
-#   website: https://www.branfordyc.org/
-#   burgee: branford_yc.png
-# - club:
-#   name: Indian Neck Yacht Club
-#   city: Branford
-#   state: Connecticut
-#   country: USA
-#   founded: 1950
-#   website: https://inyc.clubexpress.com/
-#   burgee: indian_neck_yc.png
-# - club:
-#   name: Black Rock Yacht Club
-#   city: Bridgeport
-#   state: Connecticut
-#   country: USA
-#   founded: 1926
-#   website: https://www.blackrockyc.org/
-#   burgee: bridgeport_yc.png
-# - club:
-#   name: Fayerweather Yacht Club
-#   city: Bridgeport
-#   state: Connecticut
-#   country: USA
-#   founded: 1919
-#   website: https://fycct.org/
-#   burgee: fayerweather_yc.png
-# - club:
-#   name: Stamford Yacht Club
-#   city: Stamford
-#   state: Connecticut
-#   country: USA
-#   founded: 1890
-#   website: https://www.stamfordyc.com/
-#   burgee: stamford_yc.png
-# - club:
-#   name: Ponus Yacht Club
-#   city: Stamford
-#   state: Connecticut
-#   country: USA
-#   founded: 1911
-#   website: https://www.ponusyachtclub.com/
-#   burgee: ponus_yc.png
-# - club:
-#   name: Halloween Yacht Club
-#   city: Stamford
-#   state: Connecticut
-#   country: USA
-#   founded: 1926
-#   website: https://www.hyc.net/
-#   burgee: halloween_yc.png
-# - club:
-#   name: Riverside Yacht Club
-#   city: Riverside
-#   state: Connecticut
-#   country: USA
-#   founded: 1888
-#   website: https://www.riversideyc.org/
-#   burgee: riverside_ct_yc.png
-# - club:
-#   name: Shennecossett Yacht Club
-#   city: Groton
-#   state: Connecticut
-#   country: USA
-#   founded: 1928
-#   website: https://www.syc-ct.com/
-#   burgee: shennecossett_yc.png
-# - club:
-#   name: Groton Long Point Yacht Club
-#   city: Groton
-#   state: Connecticut
-#   country: USA
-#   founded: 1934
-#   website: https://www.glpyc.org/
-#   burgee: groton_long_point_yc.png
-# - club:
-#   name: Ram Island Yacht Club
-#   city: Groton
-#   state: Connecticut
-#   country: USA
-#   founded: 1941
-#   website: https://ramislandyachtclub.org/
-#   burgee: ram_island_yc.png
-# - club:
-#   name: Hartford Yacht Club
-#   city: South Glastonbury
-#   state: Connecticut
-#   country: USA
-#   founded: 1895
-#   website: https://www.hartfordyachtclub.com/
-#   burgee: hartford_yc.png
-# - club:
-#   name: Glastonbury Yacht Club
-#   city: Glastonbury
-#   state: Connecticut
-#   country: USA
-#   founded: 1958
-#   website: http://www.glastonburyyachtclub.org/
-#   burgee: glastonbury_yc.png
-# - club:
-#   name: Middlesex Yacht Club
-#   city: Chester
-#   state: Connecticut
-#   country: USA
-#   founded: 1896
-#   website: https://middlesexyachtclub.wildapricot.org/
-#   burgee: chester_yc.png
-# - club:
-#   name: Pattaconk Yacht Club
-#   city: Chester
-#   state: Connecticut
-#   country: USA
-#   founded: 1952
-#   website: https://www.pattaconk.org/
-#   burgee: pattaconk_yc.png
-# - club:
-#   name: New Haven Yacht Club
-#   city: New Haven
-#   state: Connecticut
-#   country: USA
-#   founded: 1881
-#   website: https://www.nhyachtclub.club/
-#   burgee: new_haven_yc.png
-# - club:
-#   name: Pequonnock Yacht Club
-#   city: New Haven
-#   state: Connecticut
-#   country: USA
-#   founded: 1905
-#   website: https://www.pyc-nh.com/
-#   burgee: pequonnock_yc.png
-# - club:
-#   name: Waucoma Yacht Club
-#   city: New Haven
-#   state: Connecticut
-#   country: USA
-#   founded: 1907
-#   website: https://waucomayachtclubct.com/
-#   burgee: waucoma_yc.png
-# - club:
-#   name: City Point Yacht Club
-#   city: New Haven
-#   state: Connecticut
-#   country: USA
-#   founded: 1895
-#   website: https://www.citypointyc.org/
-#   burgee: city_point_yc.png
-# - club:
-#   name: Niantic Bay Yacht Club
-#   city: Niantic
-#   state: Connecticut
-#   country: USA
-#   founded: 1940
-#   website: https://www.nbyc.org/
-#   burgee: niantic_yc.png
-# - club:
-#   name: Guilford Yacht Club
-#   city: Guilford
-#   state: Connecticut
-#   country: USA
-#   founded: 1954
-#   website: https://www.gyc.com/
-#   burgee: guilford_yc.png
-# - club:
-#   name: Sachem's Head Yacht Club
-#   city: Guilford
-#   state: Connecticut
-#   country: USA
-#   founded: 1897
-#   website: https://shyc.club/
-#   burgee: sachems_head_yc.png
-# - club:
-#   name: Pine Orchard Yacht & Country Club
-#   city: Branford
-#   state: Connecticut
-#   country: USA
-#   founded: 1901
-#   website: https://www.poycc.org/
-#   burgee: pine_orchard_yc.png
-# - club:
-#   name: Milford Yacht Club
-#   city: Milford
-#   state: Connecticut
-#   country: USA
-#   founded: 1903
-#   website: https://milfordyachtclub.com/
-#   burgee: milford_yc.png
-# - club:
-#   name: Valley Yacht Club
-#   city: Milford
-#   state: Connecticut
-#   country: USA
-#   founded: 1967
-#   website: https://www.valleyyc.org/
-#   burgee: valley_ct_yc.png
-# - club:
-#   name: Mason's Island Yacht Club
-#   city: Mystic
-#   state: Connecticut
-#   country: USA
-#   founded: 1928
-#   website: https://miyc.clubexpress.com/
-#   burgee: masons_island_yc.png
-# - club:
-#   name: North Cove Yacht Club
-#   city: Old Saybrook
-#   state: Connecticut
-#   country: USA
-#   founded: 1969
-#   website: https://www.northcoveyc.com/
-#   burgee: north_cove_yc.png
-# - club:
-#   name: Peqot Yacht Club
-#   city: Southport
-#   state: Connecticut
-#   country: USA
-#   founded: 1920
-#   website: https://pequotyc.com/
-#   burgee: pequot_yc.png
-# - club:
-#   name: Hamburg Cove Yacht Club
-#   city: Old Lyme
-#   state: Connecticut
-#   country: USA
-#   founded: 1946
-#   website: https://hcyc.com/
-#   burgee: hamburg_cove_yc.png
-# - club:
-#   name: Indian Harbor Yacht Club
-#   city: Greenwich
-#   state: Connecticut
-#   country: USA
-#   founded: 1889
-#   website: https://www.indianharboryc.com/
-#   burgee: indian_harbor_yc.png
-# - club:
-#   name: Greenwich Boat & Yacht Club
-#   city: Greenwich
-#   state: Connecticut
-#   country: USA
-#   founded: 1938
-#   website: https://gbyc.wildapricot.org/
-#   burgee: greenwich_boat_yc.png
-# - club:
-#   name: Ischoda Yacht Club
-#   city: Norwalk
-#   state: Connecticut
-#   country: USA
-#   founded: 1886
-#   website: https://www.ischoda.com/
-#   burgee: ischoda_yc.png
-# - club:
-#   name: Rowayton Yacht Club
-#   city: Norwalk
-#   state: Connecticut
-#   country: USA
-#   founded: 1986
-#   website: https://www.rowaytonyachtclub.com/
-#   burgee: rowayton_yc.png
-# - club:
-#   name: Sprite Island Yacht Club
-#   city: Norwalk
-#   state: Connecticut
-#   country: USA
-#   founded: 1946
-#   website: https://spriteisland.com/
-#   burgee: sprite_island_yc.png
-# - club:
-#   name: Norwalk Yacht Club
-#   city: Norwalk
-#   state: Connecticut
-#   country: USA
-#   founded: 1894
-#   website: https://www.norwalkyachtclub.com/
-#   burgee: norwalk_yc.png
-# - club:
-#   name: South Norwalk Boat Club
-#   city: Norwalk
-#   state: Connecticut
-#   country: USA
-#   founded: 1900
-#   website: https://www.snboatclub.com/
-#   burgee: south_norwalk_yc.png
-# - club:
-#   name: Housatonic Yacht Club
-#   city: Stratford
-#   state: Connecticut
-#   country: USA
-#   founded: 1887
-#   website: https://www.housatonicboatclub.com/
-#   burgee: housatonic_yc.png
-# - club:
-#   name: Pootatuck Yacht Club
-#   city: Stratford
-#   state: Connecticut
-#   country: USA
-#   founded: 1896
-#   website: http://www.pootatuckyc.com/
-#   burgee: pootatuck_yc.png
-# - club:
-#   name: Duck Island Yacht Club
-#   city: Westbrook
-#   state: Connecticut
-#   country: USA
-#   founded: 1932
-#   website: http://www.diyc.com/
-#   burgee: duck_island_yc.png
-# - club:
-#   name: Wethersfield Cove Yacht Club
-#   city: Wethersfield
-#   state: Connecticut
-#   country: USA
-#   founded: 1908
-#   website: https://wcyclub.com/
-#   burgee: wethersfield_cove_yc.png
-# - club:
-#   name: Hammonasset Cove Yacht Club
-#   city: Clinton
-#   state: Connecticut
-#   country: USA
-#   founded: 1935
-#   website: https://www.hammonassetyachtclub.com/
-#   burgee: hammonasset_yc.png
-# - club:
-#   name: Essex Corinthian Yacht Club
-#   city: Essex
-#   state: Connecticut
-#   country: USA
-#   founded: 1984
-#   website: https://www.essexcorinthian.org/
-#   burgee: essex_corinthian_yc.png
-# - club:
-#   name: Pettipaug Yacht Club
-#   city: Essex
-#   state: Connecticut
-#   country: USA
-#   founded: 1950
-#   website: https://www.pettipaug.com/
-#   burgee: pettipaug_yc.png
-# - club:
-#   name: Bantam Lake Yacht Club
-#   city: Morris
-#   state: Connecticut
-#   country: USA
-#   founded: 1933
-#   website: https://www.bantamlakeyachtclub.com/
-#   burgee: bantam_lake_yc.png
-# - club:
-#   name: Mianus River Boat & Yacht Club
-#   city: Cos Cob
-#   state: Connecticut
-#   country: USA
-#   founded: 1995
-#   website: https://mrbyc.membershiptoolkit.com/
-#   burgee: mianus_river_boat_yc.png
-# - club:
-#   name: Darien Boat Club
-#   city: Darien
-#   state: Connecticut
-#   country: USA
-#   founded: 1948
-#   website: https://darienboatclub.org/
-#   burgee: darien_yc.png
-# - club:
-#   name: Noroton Yacht Club
-#   city: Darien
-#   state: Connecticut
-#   country: USA
-#   founded: 1928
-#   website: https://www.norotonyc.org/
-#   burgee: noroton_yc.png
-# - club:
-#   name: Bitter End Yacht Club
-#   city: Darien
-#   state: Connecticut
-#   country: USA
-#   founded: 1969
-#   website: https://beyc.com/
-#   burgee: bitter_end_yc.png
-# - club:
-#   name: Candlewood Yacht Club
-#   city: New Fairfield
-#   state: Connecticut
-#   country: USA
-#   founded: 1937
-#   website: https://candlewoodyachtclub.org/
-#   burgee: candlewood_yc.png
+- club:
+  name: Edgewood Yacht Club
+  city: Cranston
+  state: Rhode Island
+  country: USA
+  founded: 1889
+  website: https://edgewoodyachtclub.com/
+  burgee: edgewood_yc.png
+- club:
+  name: Rhode Island Yacht Club
+  city: Cranston
+  state: Rhode Island
+  country: USA
+  founded: 1875
+  website: https://www.riyachtclub.org/
+  burgee: rhode_island_yc.png
+- club:
+  name: East Providence Yacht Club
+  city: East Providence
+  state: Rhode Island
+  country: USA
+  founded: 1938
+  website: https://www.facebook.com/p/East-Providence-Yacht-Club-100063546101950/
+  burgee: east_providence_yc.png
+- club:
+  name: Narragansett Bay Yachting Association
+  city: East Providence
+  state: Rhode Island
+  country: USA
+  founded: 1938
+  website: https://nbya.org/
+  burgee: narragansett_bay_yc.png
+- club:
+  name: Barrington Yacht Club
+  city: Barrington
+  state: Rhode Island
+  country: USA
+  founded: 1908
+  website: https://barringtonyc.com/
+  burgee: east_greenwich_yc.png
+- club:
+  name: East Greenwich Yacht Club
+  city: East Greenwich
+  state: Rhode Island
+  country: USA
+  founded: 1909
+  website: https://www.egyc.com/
+  burgee: barrington_yc.png
+- club:
+  name: Bristol Yacht Club
+  city: Bristol
+  state: Rhode Island
+  country: USA
+  founded: 1877
+  website: https://www.bristolyc.com/
+  burgee: bristol_yc.png
+- club:
+  name: Narragansett Terrace Yacht Club
+  city: Riverside
+  state: Rhode Island
+  country: USA
+  founded: 1946
+  website: https://www.ntyc.org/
+  burgee: narragansett_terrace_yc.png
+- club:
+  name: Narragansett Boat Club
+  city: Providence
+  state: Rhode Island
+  country: USA
+  founded: 1838
+  website: https://rownbc.org/
+  burgee: narragansett_boat_yc.png
+- club:
+  name: Newport Yacht Club
+  city: Newport
+  state: Rhode Island
+  country: USA
+  founded: 1894
+  website: https://www.newportyachtclub.org/
+  burgee: newport_yc.png
+- club:
+  name: New York Yacht Club Harbor Court
+  city: Newport
+  state: Rhode Island
+  country: USA
+  founded: 1844
+  website: https://nyyc.org/
+  burgee: new_york_yc.png
+- club:
+  name: Ida Lewis Yacht Club
+  city: Newport
+  state: Rhode Island
+  country: USA
+  founded: 1928
+  website: https://www.ilyc.org/
+  burgee: ida_lewis_yc.png
+- club:
+  name: Conanicut Yacht Club
+  city: Jamestown
+  state: Rhode Island
+  country: USA
+  founded: 1892
+  website: https://conanicutyachtclub.org/
+  burgee: conanicut_yc.png
+- club:
+  name: Clam Harbor Yacht Club
+  city: Warwick
+  state: Rhode Island
+  country: USA
+  founded: 1952
+  website: https://www.clamharboryachtclub.com/
+  burgee: clam_harbor_yc.png
+- club:
+  name: Tiverton Yacht Club
+  city: Tiverton
+  state: Rhode Island
+  country: USA
+  founded: 1945
+  website: https://www.tivertonyachtclub.org/
+  burgee: tiverton_yc.png
+- club:
+  name: Quonset Davisville Navy Yacht Club
+  city: North Kingstown
+  state: Rhode Island
+  country: USA
+  founded: 1966
+  website: https://www.qdnyc.com/
+  burgee: quonset_yc.png
+- club:
+  name: Wickford Yacht Club
+  city: North Kingstown
+  state: Rhode Island
+  country: USA
+  founded: 1935
+  website: https://www.wickfordyc.com/
+  burgee: wickford_yc.png
+- club:
+  name: Weekapaug Yacht Club
+  city: Westerly
+  state: Rhode Island
+  country: USA
+  founded: 1893
+  website: https://weekapaugyachtclub.com/
+  burgee: weekapaug_yc.png
+- club:
+  name: Watch Hill Yacht Club
+  city: Westerly
+  state: Rhode Island
+  country: USA
+  founded: 1913
+  website: https://www.whyc.net/
+  burgee: watch_hill_yc.png
+- club:
+  name: Westerly Yacht Club
+  city: Westerly
+  state: Rhode Island
+  country: USA
+  founded: 1928
+  website: https://www.westerlyyc.org/
+  burgee: westerly_yc.png
+- club:
+  name: Saunderstown Yacht Club
+  city: Saunderstown
+  state: Rhode Island
+  country: USA
+  founded: 1927
+  website: https://saunderstownyachtclub.org/
+  burgee: saunderstown_yc.png
+- club:
+  name: Sakonnet Yacht Club
+  city: Little Compton
+  state: Rhode Island
+  country: USA
+  founded: 1939
+  website: https://syc.clubexpress.com/
+  burgee: sakonnet_yc.png
+- club:
+  name: Point Judith Yacht Club
+  city: South Kingstown
+  state: Rhode Island
+  country: USA
+  founded: 1926
+  website: https://www.pjyc.org/
+  burgee: point_judith_yc.png
+- club:
+  name: Portland Yacht Club
+  city: Falmouth
+  state: Maine
+  country: USA
+  founded: 1869
+  website: https://www.portlandyachtclub.com/
+  burgee: portland_me_yc.png
+- club:
+  name: Camden Yacht Club
+  city: Camden
+  state: Maine
+  country: USA
+  founded: 1902
+  website: https://camdenyachtclub.org/
+  burgee: camden_yc.png
+- club:
+  name: Agamenticus Yacht Club
+  city: York Harbor
+  state: Maine
+  country: USA
+  founded: 1937
+  website: https://www.aycsail.org/
+  burgee: agamenticus_yc.png
+- club:
+  name: Southport Yacht Club
+  city: Southport
+  state: Maine
+  country: USA
+  founded: 1946
+  website: https://www.southportyachtclub.org/
+  burgee: southport_yc.png
+- club:
+  name: Biddeford Pool Yacht Club
+  city: Biddeford
+  state: Maine
+  country: USA
+  founded: 1934
+  website: https://www.biddefordpoolyachtclub.org/
+  burgee: biddeford_pool_yc.png
+- club:
+  name: Harraseeket Yacht Club
+  city: South Freeport
+  state: Maine
+  country: USA
+  founded: 1948
+  website: https://hyc.cc/
+  burgee: harraseeket_yc.png
+- club:
+  name: Rockland Yacht Club
+  city: Rockland
+  state: Maine
+  country: USA
+  founded: 1928
+  website: https://www.facebook.com/rycmaine/
+  burgee: rockland_yc.png
+- club:
+  name: Wiscasset Yacht Club
+  city: Wiscasset
+  state: Maine
+  country: USA
+  founded: 1952
+  website: https://wiscassetyc.com/
+  burgee: wiscasset_yc.png
+- club:
+  name: Centerboard Yacht Club
+  city: South Portland
+  state: Maine
+  country: USA
+  founded: 1937
+  website: https://www.centerboardyachtclub.org/
+  burgee: centerboard_yc.png
+- club:
+  name: Saco Yacht Club
+  city: Saco
+  state: Maine
+  country: USA
+  founded: 1879
+  website: https://www.sacoyachtclub.com/
+  burgee: saco_yc.png
+- club:
+  name: Androscoggin Yacht Club
+  city: Wayne
+  state: Maine
+  country: USA
+  founded: 1909
+  website: http://aycwayne.org/
+  burgee: androscoggin_yc.png
+- club:
+  name: Boothbay Harbor Yacht Club
+  city: Boothbay Harbor
+  state: Maine
+  country: USA
+  founded: 1895
+  website: https://www.bhyc.net/
+  burgee: boothbay_harbor_yc.png
+- club:
+  name: Northport Yacht Club
+  city: Northport
+  state: Maine
+  country: USA
+  founded: 1939
+  website: https://www.northportyachtclub.org/
+  burgee: northport_yc.png
+- club:
+  name: Seal Harbor Yacht Club
+  city: Mount Desert Island
+  state: Maine
+  country: USA
+  founded: 1923
+  website: https://shyc.me/
+  burgee: seal_harbor_yc.png
+- club:
+  name: Kollegewidgwok Yacht Club
+  city: Blue Hill
+  state: Maine
+  country: USA
+  founded: 1922
+  website: https://www.kycbluehill.com/
+  burgee: kollegewidgwok_yc.png
+- club:
+  name: Great Cove Boat Club
+  city: Eliot
+  state: Maine
+  country: USA
+  founded: 1988
+  website: https://greatcove.org/
+  burgee: great_cove_yc.png
+- club:
+  name: Castine Yacht Club
+  city: Castine
+  state: Maine
+  country: USA
+  founded: 1952
+  website: https://www.castinegolfclub.com/yacht-club/
+  burgee: castine_yc.png
+- club:
+  name: Arundel Yacht Club
+  city: Kennebunkport
+  state: Maine
+  country: USA
+  founded: 1957
+  website: https://www.arundelyachtclub.org/
+  burgee: arundel_yc.png
+- club:
+  name: Orr’s-Bailey Yacht Club
+  city: Orr's Island
+  state: Maine
+  country: USA
+  founded: 1954
+  website: https://obyc.org/
+  burgee: orrs_bailey_yc.png
+- club:
+  name: Bucks Harbor Yacht Club
+  city: Brooksville
+  state: Maine
+  country: USA
+  founded: 1905
+  website: https://bucksharboryc.org/
+  burgee: bucks_harbor_yc.png
+- club:
+  name: Center Harbor Yacht Club
+  city: Brooklin
+  state: Maine
+  country: USA
+  founded: 1912
+  website: https://www.chycinfo.com/
+  burgee: center_harbor_yc.png
+- club:
+  name: Rockport Boat Club
+  city: Rockport
+  state: Maine
+  country: USA
+  founded: 1948
+  website: https://rockportboatclub.org/
+  burgee: rockport_yc.png
+- club:
+  name: Winter Harbor Yacht Club
+  city: Winter Harbor
+  state: Maine
+  country: USA
+  founded: 1890
+  website: https://www.winterharboryachtclub.com/
+  burgee: winter_harbor_me_yc.png
+- club:
+  name: Stockton Harbor Yacht Club
+  city: Stockton Springs
+  state: Maine
+  country: USA
+  founded: 2016
+  website: https://www.facebook.com/stocktonharboryachtclub/
+  burgee: stockton_harbor_yc.png
+- club:
+  name: Taylor Pond Yacht Club
+  city: Auburn
+  state: Maine
+  country: USA
+  founded: 1942
+  website: https://taylorpondyachtclub.com/
+  burgee: taylor_pond_yc.png
+- club:
+  name: Tarratine Club of Dark Harbor
+  city: Islesboro
+  state: Maine
+  country: USA
+  founded: 1896
+  website: https://tarratineclub.org/
+  burgee: tarratine_yc.png
+- club:
+  name: Down East Yacht Club
+  city: Boothbay Harbor
+  state: Maine
+  country: USA
+  founded: 1966
+  website: https://www.downeastyachtclub.com/
+  burgee: down_east_yc.png
+- club:
+  name: Swans Island Yacht Club
+  city: Swans Island
+  state: Maine
+  country: USA
+  founded: 2017
+  website: https://www.facebook.com/profile.php?id=100064343215781
+  burgee: swans_island_yc.png
+- club:
+  name: MDI Community Sailing Center
+  city: Southwest Harbor
+  state: Maine
+  country: USA
+  founded: 1996
+  website: https://mdisailing.org/
+  burgee: mdi_community_yc.png
+- club:
+  name: Northeast Harbor Fleet
+  city: Northeast Harbor
+  state: Maine
+  country: USA
+  founded: 1923
+  website: https://www.nehfleet.org/
+  burgee: northeast_harbor_yc.png
+- club:
+  name: Portsmouth Yacht Club
+  city: New Castle
+  state: New Hampshire
+  country: USA
+  founded: 1898
+  website: https://portsmouthyc.org/
+  burgee: portsmouth_yc.png
+- club:
+  name: Kittery Point Yacht Club
+  city: New Castle
+  state: New Hampshire
+  country: USA
+  founded: 1946
+  website: https://www.kpyc.org/
+  burgee: kittery_point_yc.png
+- club:
+  name: Winnipesaukee Yacht Club
+  city: Gilford
+  state: New Hampshire
+  country: USA
+  founded: 1937
+  website: https://wyc-nh.org/
+  burgee: winnipesaukee_yc.png
+- club:
+  name: Winter Harbor Yacht Club
+  city: Gilford
+  state: New Hampshire
+  country: USA
+  founded: 1940
+  website: https://winterharboryachtclubnh.com/
+  burgee: winter_harbor_nh_yc.png
+- club:
+  name: Massabesic Yacht Club
+  city: Auburn
+  state: New Hampshire
+  country: USA
+  founded: 1938
+  website: https://mycsailing.com/
+  burgee: massabesic_yc.png
+- club:
+  name: Lake Sunapee Yacht Club
+  city: Sunapee
+  state: New Hampshire
+  country: USA
+  founded: 1984
+  website: https://lsyc.net/
+  burgee: sunapee_yc.png
+- club:
+  name: Barton & Gray Mariners Club
+  city: Portsmouth
+  state: New Hampshire
+  country: USA
+  founded: 2006
+  website: https://www.bartonandgray.com/
+  burgee: barton_gray_yc.png
+- club:
+  name: Lake Champlain Yacht Club
+  city: Shelbourne
+  state: Vermont
+  country: USA
+  founded: 1877
+  website: https://lcyc.info/
+  burgee: lake_champlain_yc.png
+- club:
+  name: Mallets Bay Boat Club
+  city: Colchester
+  state: Vermont
+  country: USA
+  founded: 1936
+  website: https://mbbc-vt.org/
+  burgee: malletts_bay_yc.png
+- club:
+  name: Essex Yacht Club
+  city: Essex
+  state: Connecticut
+  country: USA
+  founded: 1933
+  website: https://www.essexyc.com/
+  burgee: essex_yc.png
+- club:
+  name: Thames Yacht Club
+  city: New London
+  state: Connecticut
+  country: USA
+  founded: 1932
+  website: https://thamesyc.org/
+  burgee: thames_yc.png
+- club:
+  name: Stonington Harbor Yacht Club
+  city: Stonington
+  state: Connecticut
+  country: USA
+  founded: 2002
+  website: https://shyc.us/
+  burgee: stonington_yc.png
+- club:
+  name: Wadawanuck Club
+  city: Stonington
+  state: Connecticut
+  country: USA
+  founded: 1908
+  website: https://wadawanuckclub.com/
+  burgee: Wadawanuck_yc.png
+- club:
+  name: Branford Yacht Club
+  city: Branford
+  state: Connecticut
+  country: USA
+  founded: 1909
+  website: https://www.branfordyc.org/
+  burgee: branford_yc.png
+- club:
+  name: Indian Neck Yacht Club
+  city: Branford
+  state: Connecticut
+  country: USA
+  founded: 1950
+  website: https://inyc.clubexpress.com/
+  burgee: indian_neck_yc.png
+- club:
+  name: Black Rock Yacht Club
+  city: Bridgeport
+  state: Connecticut
+  country: USA
+  founded: 1926
+  website: https://www.blackrockyc.org/
+  burgee: bridgeport_yc.png
+- club:
+  name: Fayerweather Yacht Club
+  city: Bridgeport
+  state: Connecticut
+  country: USA
+  founded: 1919
+  website: https://fycct.org/
+  burgee: fayerweather_yc.png
+- club:
+  name: Stamford Yacht Club
+  city: Stamford
+  state: Connecticut
+  country: USA
+  founded: 1890
+  website: https://www.stamfordyc.com/
+  burgee: stamford_yc.png
+- club:
+  name: Ponus Yacht Club
+  city: Stamford
+  state: Connecticut
+  country: USA
+  founded: 1911
+  website: https://www.ponusyachtclub.com/
+  burgee: ponus_yc.png
+- club:
+  name: Halloween Yacht Club
+  city: Stamford
+  state: Connecticut
+  country: USA
+  founded: 1926
+  website: https://www.hyc.net/
+  burgee: halloween_yc.png
+- club:
+  name: Riverside Yacht Club
+  city: Riverside
+  state: Connecticut
+  country: USA
+  founded: 1888
+  website: https://www.riversideyc.org/
+  burgee: riverside_ct_yc.png
+- club:
+  name: Shennecossett Yacht Club
+  city: Groton
+  state: Connecticut
+  country: USA
+  founded: 1928
+  website: https://www.syc-ct.com/
+  burgee: shennecossett_yc.png
+- club:
+  name: Groton Long Point Yacht Club
+  city: Groton
+  state: Connecticut
+  country: USA
+  founded: 1934
+  website: https://www.glpyc.org/
+  burgee: groton_long_point_yc.png
+- club:
+  name: Ram Island Yacht Club
+  city: Groton
+  state: Connecticut
+  country: USA
+  founded: 1941
+  website: https://ramislandyachtclub.org/
+  burgee: ram_island_yc.png
+- club:
+  name: Hartford Yacht Club
+  city: South Glastonbury
+  state: Connecticut
+  country: USA
+  founded: 1895
+  website: https://www.hartfordyachtclub.com/
+  burgee: hartford_yc.png
+- club:
+  name: Glastonbury Yacht Club
+  city: Glastonbury
+  state: Connecticut
+  country: USA
+  founded: 1958
+  website: http://www.glastonburyyachtclub.org/
+  burgee: glastonbury_yc.png
+- club:
+  name: Middlesex Yacht Club
+  city: Chester
+  state: Connecticut
+  country: USA
+  founded: 1896
+  website: https://middlesexyachtclub.wildapricot.org/
+  burgee: chester_yc.png
+- club:
+  name: Pattaconk Yacht Club
+  city: Chester
+  state: Connecticut
+  country: USA
+  founded: 1952
+  website: https://www.pattaconk.org/
+  burgee: pattaconk_yc.png
+- club:
+  name: New Haven Yacht Club
+  city: New Haven
+  state: Connecticut
+  country: USA
+  founded: 1881
+  website: https://www.nhyachtclub.club/
+  burgee: new_haven_yc.png
+- club:
+  name: Pequonnock Yacht Club
+  city: New Haven
+  state: Connecticut
+  country: USA
+  founded: 1905
+  website: https://www.pyc-nh.com/
+  burgee: pequonnock_yc.png
+- club:
+  name: Waucoma Yacht Club
+  city: New Haven
+  state: Connecticut
+  country: USA
+  founded: 1907
+  website: https://waucomayachtclubct.com/
+  burgee: waucoma_yc.png
+- club:
+  name: City Point Yacht Club
+  city: New Haven
+  state: Connecticut
+  country: USA
+  founded: 1895
+  website: https://www.citypointyc.org/
+  burgee: city_point_yc.png
+- club:
+  name: Niantic Bay Yacht Club
+  city: Niantic
+  state: Connecticut
+  country: USA
+  founded: 1940
+  website: https://www.nbyc.org/
+  burgee: niantic_yc.png
+- club:
+  name: Guilford Yacht Club
+  city: Guilford
+  state: Connecticut
+  country: USA
+  founded: 1954
+  website: https://www.gyc.com/
+  burgee: guilford_yc.png
+- club:
+  name: Sachem's Head Yacht Club
+  city: Guilford
+  state: Connecticut
+  country: USA
+  founded: 1897
+  website: https://shyc.club/
+  burgee: sachems_head_yc.png
+- club:
+  name: Pine Orchard Yacht & Country Club
+  city: Branford
+  state: Connecticut
+  country: USA
+  founded: 1901
+  website: https://www.poycc.org/
+  burgee: pine_orchard_yc.png
+- club:
+  name: Milford Yacht Club
+  city: Milford
+  state: Connecticut
+  country: USA
+  founded: 1903
+  website: https://milfordyachtclub.com/
+  burgee: milford_yc.png
+- club:
+  name: Valley Yacht Club
+  city: Milford
+  state: Connecticut
+  country: USA
+  founded: 1967
+  website: https://www.valleyyc.org/
+  burgee: valley_ct_yc.png
+- club:
+  name: Mason's Island Yacht Club
+  city: Mystic
+  state: Connecticut
+  country: USA
+  founded: 1928
+  website: https://miyc.clubexpress.com/
+  burgee: masons_island_yc.png
+- club:
+  name: North Cove Yacht Club
+  city: Old Saybrook
+  state: Connecticut
+  country: USA
+  founded: 1969
+  website: https://www.northcoveyc.com/
+  burgee: north_cove_yc.png
+- club:
+  name: Peqot Yacht Club
+  city: Southport
+  state: Connecticut
+  country: USA
+  founded: 1920
+  website: https://pequotyc.com/
+  burgee: pequot_yc.png
+- club:
+  name: Hamburg Cove Yacht Club
+  city: Old Lyme
+  state: Connecticut
+  country: USA
+  founded: 1946
+  website: https://hcyc.com/
+  burgee: hamburg_cove_yc.png
+- club:
+  name: Indian Harbor Yacht Club
+  city: Greenwich
+  state: Connecticut
+  country: USA
+  founded: 1889
+  website: https://www.indianharboryc.com/
+  burgee: indian_harbor_yc.png
+- club:
+  name: Greenwich Boat & Yacht Club
+  city: Greenwich
+  state: Connecticut
+  country: USA
+  founded: 1938
+  website: https://gbyc.wildapricot.org/
+  burgee: greenwich_boat_yc.png
+- club:
+  name: Ischoda Yacht Club
+  city: Norwalk
+  state: Connecticut
+  country: USA
+  founded: 1886
+  website: https://www.ischoda.com/
+  burgee: ischoda_yc.png
+- club:
+  name: Rowayton Yacht Club
+  city: Norwalk
+  state: Connecticut
+  country: USA
+  founded: 1986
+  website: https://www.rowaytonyachtclub.com/
+  burgee: rowayton_yc.png
+- club:
+  name: Sprite Island Yacht Club
+  city: Norwalk
+  state: Connecticut
+  country: USA
+  founded: 1946
+  website: https://spriteisland.com/
+  burgee: sprite_island_yc.png
+- club:
+  name: Norwalk Yacht Club
+  city: Norwalk
+  state: Connecticut
+  country: USA
+  founded: 1894
+  website: https://www.norwalkyachtclub.com/
+  burgee: norwalk_yc.png
+- club:
+  name: South Norwalk Boat Club
+  city: Norwalk
+  state: Connecticut
+  country: USA
+  founded: 1900
+  website: https://www.snboatclub.com/
+  burgee: south_norwalk_yc.png
+- club:
+  name: Housatonic Yacht Club
+  city: Stratford
+  state: Connecticut
+  country: USA
+  founded: 1887
+  website: https://www.housatonicboatclub.com/
+  burgee: housatonic_yc.png
+- club:
+  name: Pootatuck Yacht Club
+  city: Stratford
+  state: Connecticut
+  country: USA
+  founded: 1896
+  website: http://www.pootatuckyc.com/
+  burgee: pootatuck_yc.png
+- club:
+  name: Duck Island Yacht Club
+  city: Westbrook
+  state: Connecticut
+  country: USA
+  founded: 1932
+  website: http://www.diyc.com/
+  burgee: duck_island_yc.png
+- club:
+  name: Wethersfield Cove Yacht Club
+  city: Wethersfield
+  state: Connecticut
+  country: USA
+  founded: 1908
+  website: https://wcyclub.com/
+  burgee: wethersfield_cove_yc.png
+- club:
+  name: Hammonasset Cove Yacht Club
+  city: Clinton
+  state: Connecticut
+  country: USA
+  founded: 1935
+  website: https://www.hammonassetyachtclub.com/
+  burgee: hammonasset_yc.png
+- club:
+  name: Essex Corinthian Yacht Club
+  city: Essex
+  state: Connecticut
+  country: USA
+  founded: 1984
+  website: https://www.essexcorinthian.org/
+  burgee: essex_corinthian_yc.png
+- club:
+  name: Pettipaug Yacht Club
+  city: Essex
+  state: Connecticut
+  country: USA
+  founded: 1950
+  website: https://www.pettipaug.com/
+  burgee: pettipaug_yc.png
+- club:
+  name: Bantam Lake Yacht Club
+  city: Morris
+  state: Connecticut
+  country: USA
+  founded: 1933
+  website: https://www.bantamlakeyachtclub.com/
+  burgee: bantam_lake_yc.png
+- club:
+  name: Mianus River Boat & Yacht Club
+  city: Cos Cob
+  state: Connecticut
+  country: USA
+  founded: 1995
+  website: https://mrbyc.membershiptoolkit.com/
+  burgee: mianus_river_boat_yc.png
+- club:
+  name: Darien Boat Club
+  city: Darien
+  state: Connecticut
+  country: USA
+  founded: 1948
+  website: https://darienboatclub.org/
+  burgee: darien_yc.png
+- club:
+  name: Noroton Yacht Club
+  city: Darien
+  state: Connecticut
+  country: USA
+  founded: 1928
+  website: https://www.norotonyc.org/
+  burgee: noroton_yc.png
+- club:
+  name: Bitter End Yacht Club
+  city: Darien
+  state: Connecticut
+  country: USA
+  founded: 1969
+  website: https://beyc.com/
+  burgee: bitter_end_yc.png
+- club:
+  name: Candlewood Yacht Club
+  city: New Fairfield
+  state: Connecticut
+  country: USA
+  founded: 1937
+  website: https://candlewoodyachtclub.org/
+  burgee: candlewood_yc.png
 - club:
   name: New Bedford Yacht Club
   city: New Bedford
@@ -1508,7 +1508,7 @@ items:
   country: USA
   founded: 1892
   website: https://www.manchesteryc.org/
-  burgee: manchester_yc.png
+  burgee: manchester_by_the_sea_yc.png
 - club:
   name: Milton Yacht Club
   city: Milton Village
