@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Story</title>
-    <link>//localhost:65014/</link>
-    <description>Recent content on Hugo Story</description>
+    <title>YC Burgees</title>
+    <link>//localhost:65147/</link>
+    <description>Recent content on YC Burgees</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <copyright>{year}</copyright>
-    <atom:link href="//localhost:65014/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>2024</copyright>
+    <atom:link href="//localhost:65147/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
