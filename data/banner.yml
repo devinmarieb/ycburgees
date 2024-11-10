@@ -1,6 +1,6 @@
 ####################### Banner #########################
 style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
-title : "Yacht Clubs"
+title : "Yacht & Boat Clubs"
 subtitle: |
   A collection of clubs and their burgees.
 content : |
@@ -9,3 +9,4 @@ button:
   label : "See Clubs"
   link : "#first"
 image : "images/landing.png"
+
