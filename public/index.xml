@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>YC Burgees</title>
-    <link>//localhost:55065/</link>
+    <link>//localhost:57205/</link>
     <description>Recent content on YC Burgees</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>2024</copyright>
-    <atom:link href="//localhost:55065/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:57205/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
