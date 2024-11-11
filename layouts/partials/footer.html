@@ -1,14 +1,14 @@
 <!-- Footer -->
-<footer class="wrapper style1 align-center">
-    <div class="inner">
-      <p>This website was created by <a href="https://github.com/devinmarieb" target="_blank">Devin Beliveau</a>, member of Edgewood Yacht Club.</p>
-      <p>Website theme is Hugo Story &copy; 2020 <a target="_blank" href="https://github.com/caressofsteel/">CaressOfSteel</a><span class="footerspacer icon fa-diamond"></span>
-          Ported from <a target="_blank" href="https://html5up.net/uploads/demos/story/">Story</a> by HTML5UP<span class="footerspacer icon fa-diamond"></span>
-          Hero images courtesy of <a target="_blank" href="https://unsplash.com">Unsplash</a> & <a target="_blank" href="https://www.pexels.com/">Pexels</a></p>
-    </div>
+<footer class="wrapper style1 align-center" style="font-size: 14px">
+  <div class="inner">
+    <p>This website was created by <a href="https://github.com/devinmarieb" target="_blank">Devin Beliveau</a>, member of Edgewood Yacht Club.</p>
+    <p>Website theme is Hugo Story &copy; 2020 <a target="_blank" href="https://github.com/caressofsteel/">CaressOfSteel</a><span class="footerspacer icon fa-diamond" style="font-size:10px; font-weight:0;"></span>
+        Ported from <a target="_blank" href="https://html5up.net/uploads/demos/story/">Story</a> by HTML5UP<span class="footerspacer icon fa-diamond" style="font-size:10px; font-weight:0;"></span>
+        Hero images courtesy of <a target="_blank" href="https://unsplash.com">Unsplash</a> & <a target="_blank" href="https://www.pexels.com/">Pexels</a></p>
+  </div>
 </footer>
 
 <!-- FontAwesome JS -->
 {{ range .Site.Params.asset.fontawesome_js -}}
-    <script type="text/javascript" src="{{ . | absURL }}"></script>
+  <script type="text/javascript" src="{{ . | absURL }}"></script>
 {{- end }}

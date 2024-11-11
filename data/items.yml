@@ -1629,6 +1629,366 @@ items:
   founded: 1897
   website: https://wollastonyc.com/
   burgee: wollaston_yc.png
+- club:
+  name: Riverton Yacht Club
+  city: Riverton
+  state: New Jersey
+  country: USA
+  founded: 1865
+  website: http://www.rivertonyachtclub.org/
+  burgee: riverton_yc.png
+- club:
+  name: Keyport Yacht Club
+  city: Keyport
+  state: New Jersey
+  country: USA
+  founded: 1908
+  website: https://www.keyportyachtclub.com/
+  burgee: keyport_yc.png
+- club:
+  name: Cooper River Yacht Club
+  city: Collingswood
+  state: New Jersey
+  country: USA
+  founded: 1945
+  website: https://cryc.clubexpress.com/
+  burgee: cooper_river_yc.png
+- club:
+  name: Bay Head Yacht Club
+  city: Bay Head
+  state: New Jersey
+  country: USA
+  founded: 1888
+  website: https://www.bayheadyachtclub.org/
+  burgee: bay_head_yc.png
+- club:
+  name: Island Heights Yacht Club
+  city: Island Heights
+  state: New Jersey
+  country: USA
+  founded: 1898
+  website: https://ihyc.clubexpress.com/
+  burgee: island_heights_yc.png
+- club:
+  name: Garden State Yacht Club
+  city: Hopatcong
+  state: New Jersey
+  country: USA
+  founded: 1948
+  website: https://www.gsyc.org/
+  burgee: garden_state_yc.png
+- club:
+  name: Shrewsbury River Yacht Club
+  city: Fair Haven
+  state: New Jersey
+  country: USA
+  founded: 1910
+  website: https://sryc.net/
+  burgee: shrewsbury_river_yc.png
+- club:
+  name: Toms River Yacht Club
+  city: Fair Haven
+  state: New Jersey
+  country: USA
+  founded: 1871
+  website: https://www.tryc.com/
+  burgee: toms_river_yc.png
+- club:
+  name: Avalon Yacht Club
+  city: Avalon
+  state: New Jersey
+  country: USA
+  founded: 1941
+  website: https://avalonyachtclub.com/
+  burgee: avalon_yc.png
+- club:
+  name: Raritan Yacht Club
+  city: Perth Amboy
+  state: New Jersey
+  country: USA
+  founded: 1865
+  website: https://www.ryc.org/
+  burgee: raritan_yc.png
+- club:
+  name: Yacht Club of Sea Isle City
+  city: Sea Isle City
+  state: New Jersey
+  country: USA
+  founded: 1940
+  website: https://www.ycsic.com/
+  burgee: sea_isle_city_yc.png
+- club:
+  name: Brant Beach Yacht Club
+  city: Long Beach City
+  state: New Jersey
+  country: USA
+  founded: 1947
+  website: https://www.bbyc.net/
+  burgee: brant_beach_yc.png
+- club:
+  name: Atlantic Highlands Yacht Club
+  city: Atlantic Highlands
+  state: New Jersey
+  country: USA
+  founded: 1953
+  website: https://www.ahyc.net/
+  burgee: atlantic_highlands_yc.png
+- club:
+  name: Bordentown Yacht Club
+  city: Bordentown
+  state: New Jersey
+  country: USA
+  founded: 1937
+  website: http://www.bordentownyachtclub.com/
+  burgee: bordentown_yc.png
+- club:
+  name: Mantoloking Yacht Club
+  city: Mantoloking
+  state: New Jersey
+  country: USA
+  founded: 1890
+  website: https://mantolokingyachtclub.org/
+  burgee: mantoloking_yc.png
+- club:
+  name: Beachwood Yacht Club
+  city: Beachwood
+  state: New Jersey
+  country: USA
+  founded: 1939
+  website: https://beachwoodyachtclub.com/
+  burgee: beachwood_yc.png
+- club:
+  name: Yacht Club of Stone Harbor
+  city: Stone Harbor
+  state: New Jersey
+  country: USA
+  founded: 1939
+  website: https://ycsh.org/
+  burgee: stone_harbor_yc.png
+- club:
+  name: Seaside Park Yacht Club
+  city: Seaside Park
+  state: New Jersey
+  country: USA
+  founded: 1899
+  website: https://www.seasideparkyachtclub.com/
+  burgee: seaside_park_yc.png
+- club:
+  name: Ocean Gate Yacht Club
+  city: Ocean Gate
+  state: New Jersey
+  country: USA
+  founded: 1909
+  website: https://oceangateyachtclub.com/
+  burgee: ocean_gate_yc.png
+- club:
+  name: Lake Hopatcong Yacht Club
+  city: Mount Arlington
+  state: New Jersey
+  country: USA
+  founded: 1909
+  website: https://www.lhyc.com/
+  burgee: lake_hopatcong_yc.png
+- club:
+  name: Surf City Yacht Club
+  city: Surf City
+  state: New Jersey
+  country: USA
+  founded: 1894
+  website: https://scyc-nj.org/
+  burgee: surf_city_yc.png
+- club:
+  name: Shark River Beach and Yacht Club
+  city: Neptune City
+  state: New Jersey
+  country: USA
+  founded: 1971
+  website: https://www.srbyc.org/
+  burgee: shark_river_yc.png
+- club:
+  name: Brigantine Yacht Club
+  city: Brigantine
+  state: New Jersey
+  country: USA
+  founded: 1945
+  website: https://www.bycsail.com/
+  burgee: brigantine_yc.png
+- club:
+  name: Atlantis Yacht Club
+  city: Atlantis
+  state: New Jersey
+  country: USA
+  founded: 1961
+  website: https://www.atlantisyachtclub.org/
+  burgee: atlantis_yc.png
+- club:
+  name: Greater Wildwood Yacht Club
+  city: Wildwood Crest
+  state: New Jersey
+  country: USA
+  founded: 1938
+  website: https://www.greaterwildwoodyachtclub.org/
+  burgee: greater_wildwood_yc.png
+- club:
+  name: Hackensack Yacht Club
+  city: Hackensack
+  state: New Jersey
+  country: USA
+  founded: 1908
+  website: https://hackensackyachtclub.com/
+  burgee: hackensack_yc.png
+- club:
+  name: The Corinthian Yacht Club of Cape May
+  city: Cape May
+  state: New Jersey
+  country: USA
+  founded: 1913
+  website: https://www.cyccm.com/
+  burgee: corinthian_cape_may_yc.png
+- club:
+  name: Little Egg Harbor Yacht Club
+  city: Beach Haven
+  state: New Jersey
+  country: USA
+  founded: 1912
+  website: https://www.lehyc.com/
+  burgee: little_egg_harbor_yc.png
+- club:
+  name: Spray Beach Yacht Club
+  city: Beach Haven
+  state: New Jersey
+  country: USA
+  founded: 1922
+  website: https://www.spraybeachyachtclub.com/
+  burgee: spray_beach_yc.png
+- club:
+  name: Little Egg Harbor Yacht Club
+  city: Long Branch
+  state: New Jersey
+  country: USA
+  founded: 1912
+  website: https://www.lehyc.com/
+  burgee: little_egg_harbor_yc.png
+- club:
+  name: Shrewsbury Sailing & Yacht Club
+  city: Oceanport
+  state: New Jersey
+  country: USA
+  founded: 1936
+  website: https://www.ssycsailnj.org/
+  burgee: shrewsbury_yc.png
+- club:
+  name: Normandy Beach Yacht Club
+  city: Toms River
+  state: New Jersey
+  country: USA
+  founded: 1946
+  website: https://www.nbycnj.com/
+  burgee: normandy_beach_yc.png
+- club:
+  name: Liberty Yacht Club
+  city: Jersey City
+  state: New Jersey
+  country: USA
+  founded: 1998
+  website: https://www.libertyyachtclub.org/
+  burgee: liberty_yc.png
+- club:
+  name: Manhattan Yacht Club
+  city: Jersey City
+  state: New Jersey
+  country: USA
+  founded: 1987
+  website: https://myc.org/
+  burgee: manhattan_yc.png
+- club:
+  name: Barnegat Light Yacht Club
+  city: Harvey Cedars
+  state: New Jersey
+  country: USA
+  founded: 1928
+  website: https://www.barnegatlightyachtclub.com/
+  burgee: barnegat_light_yc.png
+- club:
+  name: Manasquan River Yacht Club
+  city: Brielle
+  state: New Jersey
+  country: USA
+  founded: 1899
+  website: https://www.mryc.org/
+  burgee: manasquan_yc.png
+- club:
+  name: Metedeconk River Yacht Club
+  city: Brick Township
+  state: New Jersey
+  country: USA
+  founded: 1936
+  website: https://metedeconkriveryc.org/
+  burgee: metedeconk_yc.png
+- club:
+  name: Shore Acres Club
+  city: Brick Township
+  state: New Jersey
+  country: USA
+  founded: 1941
+  website: https://shoreacresyachtclub.org/
+  burgee: shore_acres_yc.png
+- club:
+  name: Lavallette Yacht Club
+  city: Lavallette
+  state: New Jersey
+  country: USA
+  founded: 1905
+  website: https://www.lavalletteyc.org/
+  burgee: lavallette_yc.png
+- club:
+  name: Raritan River Boat Club
+  city: Edison
+  state: New Jersey
+  country: USA
+  founded: 1934
+  website: http://raritanriverboatclub.com/
+  burgee: raritan_river_yc.png
+- club:
+  name: Lake Mohawk Yacht Club
+  city: Sparta
+  state: New Jersey
+  country: USA
+  founded: 1933
+  website: https://sites.google.com/site/lakemohawkyachtclub
+  burgee: lake_mohawk_yc.png
+- club:
+  name: The South River Boat Club
+  city: South River
+  state: New Jersey
+  country: USA
+  founded: 1958
+  website: https://www.southriverboatclub.com/
+  burgee: south_river_yc.png
+- club:
+  name: Hunterdon Sailing Club
+  city: Clinton
+  state: New Jersey
+  country: USA
+  founded: 1964
+  website: https://sailhsc.org/
+  burgee: hunterdon_yc.png
+- club:
+  name: Monmouth Boat Club
+  city: Red Bank
+  state: New Jersey
+  country: USA
+  founded: 1879
+  website: https://monmouthboatclub.org/
+  burgee: monmouth_yc.png
+- club:
+  name: Lake Forest Yacht Club
+  city: Lake Hopatcong
+  state: New Jersey
+  country: USA
+  founded: 1958
+  website: https://www.lfyc.org/
+  burgee: lake_forest_yc.png
 # club:
 #   name:
 #   city:
