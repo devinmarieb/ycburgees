@@ -44,7 +44,7 @@ items:
   country: USA
   founded: 1908
   website: https://barringtonyc.com/
-  burgee: east_greenwich_yc.png
+  burgee: barrington_yc.png
 - club:
   name: East Greenwich Yacht Club
   city: East Greenwich
@@ -52,7 +52,7 @@ items:
   country: USA
   founded: 1909
   website: https://www.egyc.com/
-  burgee: barrington_yc.png
+  burgee: east_greenwich_yc.png
 - club:
   name: Bristol Yacht Club
   city: Bristol
@@ -1862,13 +1862,13 @@ items:
   website: https://www.spraybeachyachtclub.com/
   burgee: spray_beach_yc.png
 - club:
-  name: Little Egg Harbor Yacht Club
+  name: Long Branch Ice Boat & Yacht Club
   city: Long Branch
   state: New Jersey
   country: USA
-  founded: 1912
-  website: https://www.lehyc.com/
-  burgee: little_egg_harbor_yc.png
+  founded: 1901
+  website: https://www.lbibyc.org/
+  burgee: long_branch_yc.png
 - club:
   name: Shrewsbury Sailing & Yacht Club
   city: Oceanport
